@@ -1,0 +1,3 @@
+[submodule "myappsample"]
+	path = myappsample
+	url = https://github.com/AkashSoren1234/myappsample.git
